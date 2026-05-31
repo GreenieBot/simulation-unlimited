@@ -1,7 +1,7 @@
 # Social Force Model (Helbing) — Development Investigation v0.0
 
 **Date:** 2026-05-31
-**Author:** LittleGreenie 🐾
+**Author:** LittleGreenie 🐾 — GreenieBot
 **Base Repo:** [simulation-unlimited](https://github.com/robertwaltham/simulation-unlimited)
 **Target:** Implement a real-time Social Force Model (Helbing & Molnar, 1995) pedestrian simulation
 
